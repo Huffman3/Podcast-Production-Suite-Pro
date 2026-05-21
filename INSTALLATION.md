@@ -35,3 +35,43 @@ Claude will extract and register all commands, artifacts, and skills automatical
 ### Step 3: Verify Installation
 
 In Claude, type:
+/research 
+
+You should see the Episode Research skill activate. You're ready to go.
+
+---
+
+## What You Get
+
+**10 Production Skills**
+- Episode Research, Case Pipeline Tracker, Show Outline, SCQA Writing Framework
+- Guest Outreach Writer, Guest Interview Prep
+- Fact-Check Script, Anti-AI Writing Enforcement
+- Audio to Transcript, Marketing Newsletter Writer
+
+**10 Interactive Dashboards**
+- Pipeline status, guest tracker, episode performance, revenue dashboard, fact-check audit trail, content calendar, transcript library, anti-AI enforcement, research backlog, analytics
+
+**5 Slash Commands**
+- /research, /outline, /guest-prep, /fact-check, /transcript
+
+Everything you need to run your weekly show—from research to publishing to sponsorship tracking.
+
+---
+
+## Support
+
+- **Setup issues?** Check the Gumroad page for detailed FAQs
+- **How to use a skill?** Type `/help` in Claude
+- **Report a bug or request a feature?** Open an issue on GitHub
+- **Questions about your subscription?** Visit the Gumroad product page
+
+---
+
+**Version:** v1.4.3  
+**Status:** Production Ready  
+**License:** See LICENSE.txt in the source code repository
+
+---
+
+*Everything a podcaster needs. In one place.*
